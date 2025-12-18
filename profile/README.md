@@ -25,7 +25,7 @@ Desde su fundación en 1951, CEC ha evolucionado hasta convertirse en una de las
 **Cooperativa Eléctrica Curicó Ltda.**  
 📍 Camilo Henríquez 153, Curicó, Región del Maule, Chile  
 📞 Línea gratuita: **800 600 111**  
-📧 Email: **cec@cecltda.cl**  
+📧 Email: **tecnologia@cecltda.cl**  
 🌐 Sitio web: https://www.cecltda.cl/
 
 ---

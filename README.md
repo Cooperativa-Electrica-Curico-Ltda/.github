@@ -22,8 +22,6 @@ Proveer **servicios eléctricos confiables, seguros y de calidad** que impulsen 
 
 Ser una **cooperativa líder en la región y un referente nacional** en distribución eléctrica, destacando por su compromiso con la comunidad, excelencia en el servicio y adopción de tecnologías sostenibles que aporten al bienestar de nuestros usuarios.
 
-> *(La misión y visión aquí expuestas han sido redactadas con base en el rol histórico, propósito social y modelo de gestión de la organización, según fuentes públicas de la cooperativa y su actividad en el sector.)*
-
 ---
 
 ## ⚡ Nuestros valores
@@ -47,20 +45,6 @@ El equipo de TI de la **Cooperativa Eléctrica Curicó** es responsable de **des
 
 Este equipo trabaja de forma transversal con otras áreas para **asegurar la eficiencia operativa y mejorar la experiencia de los cooperados**.
 
-> *(Puedes actualizar esta sección agregando nombres, roles y responsabilidades concretas si lo deseas).*
-
----
-
-## 📂 Repositorios vinculados (estructura sugerida)
-
-Este repositorio puede enlazar o contener proyectos como:
-
-- 🛠️ `apps/` – Aplicaciones internas y herramientas web.
-- 🧪 `api/` – Endpoints y servicios de backend.
-- 📊 `dashboard/` – Paneles de monitoreo y reportes.
-- 📄 `docs/` – Documentación técnica, estándares y guías.
-- 🔐 `infra/` – Configuraciones de infraestructura como código.
-
 ---
 
 ## 📞 Contacto
@@ -79,5 +63,5 @@ Este repositorio está abierto a colaboradores internos de la Cooperativa. Si ti
 
 ---
 
-✨ *Gracias por visitar nuestro perfil en GitHub — energía que nos conecta.* :contentReference[oaicite:4]{index=4}
+✨ *Gracias por visitar nuestro perfil en GitHub — energía que nos conecta.*
 

@@ -30,5 +30,5 @@ Desde su fundación en 1951, CEC ha evolucionado hasta convertirse en una de las
 
 ---
 
-✨ *Gracias por visitar nuestro perfil en GitHub — energía que nos conecta.*
+✨ *Gracias por visitar nuestro perfil en GitHub — Nuestra energía nos conecta.*
 
